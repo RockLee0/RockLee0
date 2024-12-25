@@ -60,6 +60,20 @@ I'm **Md.Shakil**, a passionate **Machine Learning Engineer** and **Full Stack D
 
 ---
 
+## 📊 **GitHub Statistics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RockLee0&show_icons=true&count_private=true&hide=issues&hide_title=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RockLee0&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 🚀 **Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
+
 ## 🚀 **Featured Projects**  
 
 ### 1️⃣ [Smart ML Model Deployment 🌟](https://github.com/YourGitHubUsername/ProjectName)  
