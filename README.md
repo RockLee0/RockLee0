@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!  
 
-I'm **Md.Shakil**, a passionate **Machine Learning Engineer** and **Full Stack Developer**. I specialize in building scalable AI models and developing end-to-end web applications to solve real-world problems. 🌍  
+I'm *Shakil*, a passionate **Machine Learning Engineer** and **Full Stack Developer**. I specialize in building scalable AI models and developing end-to-end web applications to solve real-world problems. 🌍  
 
 ---
 
