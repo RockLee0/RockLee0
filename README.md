@@ -59,7 +59,7 @@ I'm **Md.Shakil**, a passionate **Machine Learning Engineer** and **Full Stack D
 
 ### 3️⃣ [Custom AI Framework 🔧](https://github.com/YourGitHubUsername/ProjectName)  
 🔹 Created a reusable framework for rapid **text data augmentation** using GANs.  
-🔹 Published results in [Publication Name/Blog Link].  
+  
 
 ---
 
