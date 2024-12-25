@@ -10,7 +10,10 @@ I'm **Md.Shakil**, a passionate **Machine Learning Engineer** and **Full Stack D
   - Design and deploy machine learning solutions for NLP, Computer Vision, and more.  
   - Build robust full-stack web applications with modern frameworks.  
 - 🎯 **Mission:** To create impactful tech that transforms industries like healthcare, fintech, and beyond.  
-- 🌱 **Currently Learning:** Advanced ML architectures, cloud-native solutions, and Web3 integration.  
+- 🌱 **Currently Learning:** Advanced ML architectures, cloud-native solutions, and Web3 integration.
+- **📊 Analytical Expertise:** Proficient in data wrangling, statistical modeling, and crafting interactive dashboards to derive actionable insights.  
+- **🔍 Insights-Driven:** Passionate about turning raw data into stories that drive decision-making and innovation.  
+
 
 ---
 
@@ -29,6 +32,16 @@ I'm **Md.Shakil**, a passionate **Machine Learning Engineer** and **Full Stack D
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+
+### Data Analysis & Visualization  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
@@ -60,6 +73,19 @@ I'm **Md.Shakil**, a passionate **Machine Learning Engineer** and **Full Stack D
 ### 3️⃣ [Custom AI Framework 🔧](https://github.com/YourGitHubUsername/ProjectName)  
 🔹 Created a reusable framework for rapid **text data augmentation** using GANs.  
   
+## 📈 **Featured Data Analytics Projects**  
+
+### 1️⃣ [Customer Churn Prediction](https://github.com/YourGitHubUsername/CustomerChurn)  
+🔹 Built a machine learning model with **Scikit-learn** to predict customer churn with 89% accuracy.  
+🔹 Created a dashboard using **Tableau** for detailed analysis of churn trends by region and segment.  
+
+### 2️⃣ [Sales Performance Dashboard](https://github.com/YourGitHubUsername/SalesDashboard)  
+🔹 Designed an interactive dashboard in **Power BI** to track KPIs like revenue, profit, and sales growth.  
+🔹 Implemented real-time data updates from SQL databases to monitor regional sales trends.  
+
+### 3️⃣ [COVID-19 Data Analysis](https://github.com/YourGitHubUsername/COVID19Analysis)  
+🔹 Conducted exploratory data analysis using **Pandas** and **Seaborn** to identify infection trends.  
+🔹 Created compelling visualizations with **Matplotlib** for better communication of findings.  
 
 ---
 
